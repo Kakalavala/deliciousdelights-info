@@ -1,4 +1,6 @@
 # A complete list of items added by Delicious Delights.
+>**541 Items**
+
 Vanilla Frosted Vanilla Cake<br/>
 Chocolate Frosted Vanilla Cake<br/>
 Strawberry Frosted Vanilla Cake<br/>
