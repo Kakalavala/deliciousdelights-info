@@ -1,542 +1,542 @@
 # A complete list of items added by Delicious Delights.
-Vanilla Frosted Vanilla Cake
-Chocolate Frosted Vanilla Cake
-Strawberry Frosted Vanilla Cake
-Chocolate Mousse Cake
-Vanilla Frosted Chocolate Cake
-Chocolate Frosted Chocolate Cake
-Strawberry Frosted Chocolate Cake
-Mint Frosted Chocolate Cake
-Coffee Cake
-Vanilla Frosted Red Velvet Cake
-Chocolate Frosted Red Velvet Cake
-Empty Cup
-Cup of Tea
-Tea Bag (Empty)
-Cupcake Tray
-Cup of Hot Chocolate
-Knife
-Mortar
-Strawberry
-Strawberry Seeds
-Blueberry Seeds
-Cherry Seeds
-Mint Leaves
-Mint Seeds
-Vanilla Flower
-Tea Seeds
-Wheat Flour
-Rice Flour
-Potato Starch
-Rice
-Rice Seeds
-Dough
-Gluten Free Dough
-Vanilla Cake Base
-Chocolate Cake Base
-Vanilla Cupcake Base
-Chocolate Cupcake Base
-Vanilla Cupcake Dough
-Chocolate Cupcake Dough
-Tray of Vanilla Cupcakes
-Tray of Chocolate Cupcakes
-Banana
-Blueberries
-Cherry
-Orange
-Peanut
-Coffee Beans
-Coffee Beans (Mocha)
-Coffee Beans (Espresso)
-Cup of Coffee
-Cup of Mocha
-Cup of Espresso
-Cup of Cappuccino
-Cup of Macchiato
-Cup of Latte
-Cup of Cold Brew
-Cup of Americano
-Green Tea Leaves
-Matcha Tea Leaves
-Dried Tea Leaves
-Yellow Tea Leaves
-White Tea Leaves
-Oolong Tea Leaves
-Tea Bag (Green Tea)
-Matcha Tea Powder
-Tea Bag (Black Tea)
-Tea Bag (Yellow Tea)
-Tea Bag (White Tea)
-Tea Bag (Oolong Tea)
-Cup of Green Tea
-Cup of Matcha Tea
-Cup of Black Tea
-Cup of Yellow Tea
-Cup of White Tea
-Cup of Oolong Tea
-Slice of Cake (Vanilla/Vanilla)
-Slice of Cake (Chocolate/Vanilla)
-Slice of Cake (Strawberry/Vanilla)
-Slice of Cake (Vanilla/Chocolate)
-Slice of Cake (Chocolate/Chocolate)
-Slice of Cake (Strawberry/Chocolate)
-Slice of Cake (Mint/Chocolate)
-Slice of Cake (Mousse)
-Vanilla Frosted Vanilla Cupcake
-Chocolate Frosted Vanilla Cupcake
-Strawberry Frosted Vanilla Cupcake
-Vanilla Frosted Chocolate Cupcake
-Chocolate Frosted Chocolate Cupcake
-Strawberry Frosted Chocolate Cupcake
-Mint Frosted Chocolate Cupcake
-Vanilla Frosted Chocolate Cupcake (Sprinkles)
-Chocolate Frosted Chocolate Cupcake (Sprinkles)
-Strawberry Frosted Chocolate Cupcake (Sprinkles)
-Vanilla Frosted Vanilla Cupcake (Sprinkles)
-Chocolate Frosted Vanilla Cupcake (Sprinkles)
-Strawberry Frosted Vanilla Cupcake (Sprinkles)
-Apple Pie
-Pumpkin Pie
-Strawberry Pie
-Chocolate Pie
-Cherry Pie
-Blueberry Pie
-Vanilla Ice Cream
-Chocolate Ice Cream
-Strawberry Ice Cream
-Mint Ice Cream
-Neapolitan Ice Cream
-Vanilla Ice Cream (Sprinkles)
-Chocolate Ice Cream (Sprinkles)
-Strawberry Ice Cream (Sprinkles)
-Mint Ice Cream (Sprinkles)
-Neapolitan Ice Cream (Sprinkles)
-Vanilla Ice Cream
-Chocolate Ice Cream
-Strawberry Ice Cream
-Mint Ice Cream
-Neapolitan Ice Cream
-Vanilla Chocolate Chip Ice Cream
-Chocolate Chocolate Chip Ice Cream
-Strawberry Chocolate Chip Ice Cream
-Mint Chocolate Chip Ice Cream
-Neapolitan Chocolate Chip Ice Cream
-Donut
-Berlin Creme Donut
-Boston Creme Donut
-Jelly Donut
-Powdered Donut
-Cinnamon Bun
-Chocolate Bar
-White Chocolate Bar
-Dark Chocolate Bar
-Chocolate Chips
-White Chocolate Chips
-M&Ms
-Chocolate Cookie Dough
-Chocolate (M&Ms) Cookie Dough
-Chocolate Chip Cookie Dough
-Chocolate Chip (M&Ms) Cookie Dough
-Sugar Cookie Dough
-Sugar (M&Ms) Cookie Dough
-Peanut Butter Cookie Dough
-Peanut Butter (M&Ms) Cookie Dough
-M&M Cookie Dough
-Creme Cookie Dough
-Mint Creme Cookie Dough
-Chocolate Cookie
-Chocolate Cookie (M&Ms)
-Chocolate Chip Cookie
-Chocolate Chip Cookie (M&Ms)
-Sugar Cookie
-Sugar Cookie (M&Ms)
-Peanut Butter Cookie
-Peanut Butter Cookie (M&Ms)
-Creme Cookie
-M&M Cookie
-Jaffa Cake
-Mint Creme Cookie
-Gluten Free Donut
-Glazed Gluten Free Donut
-Gluten Free Donut (Sprinkles)
-Gluten Free Donut
-Gluten Free Donut
-Gluten Free Donut
-Chocolate Frosted Gluten Free Donut
-Chocolate Frosted Gluten Free Donut (Sprinkles)
-Chocolate Frosted Gluten Free Donut
-Chocolate Frosted Gluten Free Donut
-Strawberry Frosted Gluten Free Donut
-Strawberry Frosted Gluten Free Donut (Sprinkles)
-Strawberry Frosted Gluten Free Donut
-Strawberry Frosted Gluten Free Donut
-Vanilla Frosted Gluten Free Donut
-Vanilla Frosted Gluten Free Donut (Sprinkles)
-Vanilla Frosted Gluten Free Donut
-Vanilla Frosted Gluten Free Donut
-Glazed Donut
-Glazed Donut (Sprinkles)
-Glazed Donut
-Glazed Donut
-Glazed Donut
-Chocolate Glazed Donut
-Chocolate Glazed Donut (Sprinkles)
-Chocolate Glazed Donut
-Chocolate Glazed Donut
-Chocolate Frosted Donut
-Chocolate Frosted Donut (Sprinkles)
-Chocolate Frosted Donut
-Chocolate Frosted Donut
-Strawberry Frosted Donut
-Strawberry Frosted Donut (Sprinkles)
-Strawberry Frosted Donut
-Strawberry Frosted Donut
-Vanilla Frosted Donut
-Vanilla Frosted Donut (Sprinkles)
-Vanilla Frosted Donut
-Vanilla Frosted Donut
-Vanilla Milkshake
-Chocolate Milkshake
-Strawberry Milkshake
-Mint Milkshake
-Mint Chocolate Chip Milkshake
-Neapolitan Milkshake
-Poptart Base
-Poptart Base (Chocolate)
-Strawberry Poptart
-Brown Sugar Poptart
-Chocolate Chip Poptart
-Minecraft Poptart
-Cookies & Creme Poptart
-Chocolate Fudge Poptart
-S'mores Poptart
-Cinnamon Roll Poptart
-Chocolate Cupcake Poptart
-Confetti Cupcake Poptart
-Chocolate Chip Cookie Dough Poptart
-Hot Fudge Sundae Poptart
-Cherry Poptart
-Blueberry Poptart
-Waffle
-Ice Cream Cone
-Vanilla Ice Cream Cone
-Chocolate Ice Cream Cone
-Strawberry Ice Cream Cone
-Neapolitan Ice Cream Cone
-Mint Ice Cream Cone
-Mint Chocolate Chip Ice Cream Cone
-Vanilla Ice Cream Cone (Sprinkles)
-Chocolate Ice Cream Cone (Sprinkles)
-Strawberry Ice Cream Cone (Sprinkles)
-Neapolitan Ice Cream Cone (Sprinkles)
-Mint Ice Cream Cone (Sprinkles)
-Vanilla Ice Cream Cone
-Chocolate Ice Cream Cone
-Strawberry Ice Cream Cone
-Neapolitan Ice Cream Cone
-Mint Ice Cream Cone
-Ice Cream Sandwich (Vanilla)
-Ice Cream Sandwich (Chocolate)
-Ice Cream Sandwich (Strawberry)
-Ice Cream Sandwich (Mint)
-Ice Cream Sandwich (Neapolitan)
-Banana Split Ice Cream Sundae
-Banana Split Ice Cream Sundae (Sprinkles)
-Banana Split Ice Cream Sundae
-Hot Fudge Sundae
-Spigot
-Bottle of Syrup
-Pancake Batter
-Pancake Batter (Blueberry)
-Pancake Batter (Chocolate Chip)
-Waffle Batter
-Waffle Batter (Blueberry)
-Waffle Batter (Chocolate Chip)
-French Toast Batter
-Pancake
-Pancake (Syrup)
-Chocolate Chip Pancake
-Chocolate Chip Pancake (Syrup)
-Blueberry Pancake
-Blueberry Pancake (Syrup)
-Waffle (Syrup)
-Chocolate Chip Waffle
-Chocolate Chip Waffle (Syrup)
-Blueberry Waffle
-Blueberry Waffle (Syrup)
-French Toast
-French Toast (Syrup)
-Chocolate Popsicle
-Orange Popsicle
-Cherry Popsicle
-Blueberry Popsicle
-Strawberry Popsicle
-Banana Popsicle
-Firecracker Popsicle
-Chocolate Syrup
-Peppermint
-Caramel
-Peanut Butter
-Candy Bar Cookie Dough
-Candy Bar Cookie
-Croissant Shaped Dough
-Croissant
-Crêpe
-Crêpe
-Crêpe
-Crêpe
-Chocolate Crêpe
-Chocolate Crêpe
-Chocolate Crêpe
-Chocolate Crêpe
-Pancake Batter (Chocolate)
-Chocolate Pancake
-Chocolate Pancake (Chocolate Syrup)
-Twix
-Milky Way
-Crunch Bar
-Peanut Butter Cup
-Payday
-Snickers
-Kit Kat
-Lollipop (Cherry)
-Lollipop (Orange)
-Lollipop (Banana)
-Lollipop (Blueberry)
-Lollipop (Strawberry)
-Lollipop (Melon)
-Lollipop (Peppermint)
-Lollipop (Green Apple)
-Cake Roll (Vanilla/Vanilla)
-Cake Roll (Chocolate/Vanilla)
-Cake Roll (Strawberry/Vanilla)
-Cake Roll (Vanilla/Chocolate)
-Cake Roll (Chocolate/Chocolate)
-Cake Roll (Strawberry/Chocolate)
-Cake Roll (Mint/Chocolate)
-Butter Churn
-Peanut Brittle
-Gelatin
-Marshmallow
-Jello (Cherry)
-Jello (Orange)
-Jello (Strawberry)
-Jello (Blueberry)
-Jello (Melon)
-Bucket of Boiling Water
-Boiled Sugar
-Strawberry Syrup
-Butter
-Cheese
-Glass of Milk
-Glass of Chocolate Milk
-Glass of Strawberry Milk
-Waffle Batter (Chocolate)
-Chocolate Waffle
-Chocolate Waffle (Chocolate Syrup)
-Ice Cream Cone (Chocolate)
-Rolo
-Caramel Apple
-Strawberry Shortcake
-Chocolate Strawberry Shortcake
-Vanilla Cheese Cake
-Chocolate Cheese Cake
-Slice of Cheese Cake (Vanilla)
-Slice of Cheese Cake (Chocolate)
-Slice of Coffee Cake
-Ginger Seeds
-Ginger
-Ginger Snaps
-Gingerbread Man
-Ginger Snaps Cookie Dough
-Gingerbread Man Cookie Dough
-Peppermint Patty
-Taffy
-Cotton Candy
-Cotton Candy
-Cannoli
-Cup of Kona Coffee
-Coffee Beans (Kona)
-Vanilla French Horn
-Chocolate French Horn
-Vanilla French Horn (Strawberry)
-Chocolate French Horn (Strawberry)
-Vanilla Ice Cream
-Chocolate Ice Cream
-Strawberry Ice Cream
-Mint Ice Cream
-Neapolitan Ice Cream
-Vanilla Ice Cream
-Chocolate Ice Cream
-Mint Ice Cream
-Neapolitan Ice Cream
-Vanilla Ice Cream
-Chocolate Ice Cream
-Mint Ice Cream
-Neapolitan Ice Cream
-Vanilla Ice Cream Cone
-Chocolate Ice Cream Cone
-Strawberry Ice Cream Cone
-Mint Ice Cream Cone
-Neapolitan Ice Cream Cone
-Vanilla Ice Cream Cone
-Chocolate Ice Cream Cone
-Mint Ice Cream Cone
-Neapolitan Ice Cream Cone
-Vanilla Ice Cream Cone
-Chocolate Ice Cream Cone
-Mint Ice Cream Cone
-Neapolitan Ice Cream Cone
-Vanilla Ice Cream Cone (Chocolate Cone)
-Chocolate Ice Cream Cone (Chocolate Cone)
-Strawberry Ice Cream Cone (Chocolate Cone)
-Mint Ice Cream Cone (Chocolate Cone)
-Neapolitan Ice Cream Cone (Chocolate Cone)
-Vanilla Ice Cream Cone (Chocolate Cone)
-Chocolate Ice Cream Cone (Chocolate Cone)
-Strawberry Ice Cream Cone (Chocolate Cone)
-Mint Ice Cream Cone (Chocolate Cone)
-Neapolitan Ice Cream Cone (Chocolate Cone)
-Vanilla Ice Cream Cone (Chocolate Cone)
-Chocolate Ice Cream Cone (Chocolate Cone)
-Strawberry Ice Cream Cone (Chocolate Cone)
-Mint Ice Cream Cone (Chocolate Cone)
-Neapolitan Ice Cream Cone (Chocolate Cone)
-Vanilla Ice Cream Cone (Chocolate Cone)
-Chocolate Ice Cream Cone (Chocolate Cone)
-Strawberry Ice Cream Cone (Chocolate Cone)
-Mint Ice Cream Cone (Chocolate Cone)
-Neapolitan Ice Cream Cone (Chocolate Cone)
-Mint Chocolate Chip Ice Cream (Chocolate Cone)
-Vanilla Ice Cream Cone (Chocolate Cone)
-Chocolate Ice Cream Cone (Chocolate Cone)
-Mint Ice Cream Cone (Chocolate Cone)
-Neapolitan Ice Cream Cone (Chocolate Cone)
-Vanilla Ice Cream Cone (Chocolate Cone)
-Chocolate Ice Cream Cone (Chocolate Cone)
-Mint Ice Cream Cone (Chocolate Cone)
-Neapolitan Ice Cream Cone (Chocolate Cone)
-Jellybean (Vanilla)
-Jellybean (Chocolate)
-Jellybean (Strawberry)
-Jellybean (Green Apple)
-Jellybean (Blueberry)
-Jellybean (Orange)
-Jellybean (Banana)
-Jellybean (Cherry)
-Candy Cane
-Candy Cane (Chocolate)
-Candy Cane (Strawberry)
-Candy Cane (Green Apple)
-Candy Cane (Blueberry)
-Candy Cane (Orange)
-Candy Cane (Banana)
-Candy Cane (Cherry)
-Macaron (Vanilla)
-Macaron (Chocolate)
-Macaron (Strawberry)
-Macaron (Mint)
-Macaron (Blueberry)
-Macaron (Orange)
-Macaron (Banana)
-Macaron (Cherry)
-Fudge Striped Cookie
-Vanilla Muffin
-Vanilla Muffin (Blueberry)
-Vanilla Muffin (Chocolate Chip)
-Vanilla Muffin (Strawberry)
-Vanilla Muffin (Poppy Seed)
-Banana Bread Muffin (Vanilla)
-Banana Bread Muffin (Chocolate)
-Vanilla Muffin Dough
-Vanilla Muffin Dough (Blueberry)
-Vanilla Muffin Dough (Chocolate Chip)
-Vanilla Muffin Dough (Strawberry)
-Vanilla Muffin Dough (Poppy Seed)
-Banana Bread Muffin Dough (Vanilla)
-Banana Bread Muffin Dough (Chocolate)
-Tray of Vanilla Muffins
-Tray of Vanilla Muffins (Blueberry)
-Tray of Vanilla Muffins (Chocolate Chip)
-Tray of Vanilla Muffins (Strawberry)
-Tray of Vanilla Muffins (Poppy Seed)
-Tray of Banana Bread Muffins (Vanilla)
-Tray of Banana Bread Muffins (Chocolate)
-Jolly Rancher (Strawberry)
-Jolly Rancher (Green Apple)
-Jolly Rancher (Blueberry)
-Jolly Rancher (Orange)
-Jolly Rancher (Banana)
-Jolly Rancher (Cherry)
-Taffy (Strawberry)
-Taffy (Green Apple)
-Taffy (Blueberry)
-Taffy (Orange)
-Taffy (Banana)
-Taffy (Cherry)
-Pretzel Dough
-Gluten Free Pretzel Dough
-Pretzel
-Gluten Free Pretzel
-Chocolate Frosted Pretzel
-White Chocolate Frosted Pretzel
-Strawberry Frosted Pretzel
-Mint Frosted Pretzel
-Chocolate Frosted Gluten Free Pretzel
-White Chocolate Frosted Gluten Free Pretzel
-Strawberry Frosted Gluten Free Pretzel
-Mint Frosted Gluten Free Pretzel
-Chocolate Frosted Pretzel (Sprinkles)
-White Chocolate Frosted Pretzel (Sprinkles)
-Strawberry Frosted Pretzel (Sprinkles)
-Mint Frosted Pretzel (Sprinkles)
-Chocolate Frosted Gluten Free Pretzel (Sprinkles)
-White Chocolate Frosted Gluten Free Pretzel (Sprinkles)
-Strawberry Frosted Gluten Free Pretzel (Sprinkles)
-Mint Frosted Gluten Free Pretzel (Sprinkles)
-Brownie Batter (Chocolate)
-Brownie Batter (Peanut Butter)
-Brownie Batter (Caramel)
-Brownie Batter (Mint)
-Brownie (Chocolate)
-Brownie (Peanut Butter)
-Brownie (Caramel)
-Brownie (Mint)
-Coffee Cake Batter
-Milano (Chocolate)
-Milano (Strawberry)
-Milano (Mint)
-Jammie Dodger (Strawberry)
-Jammie Dodger (Chocolate)
-Jammie Dodger (Orange)
-Vanilla Waffer
-Chocolate Waffer
-Strawberry Waffer
-Half-Moon Cookie
-Red Velvet Cupcake Dough
-Tray of Red Velvet Cupcakes
-Red Velvet Cupcake Base
-Red Velvet Cake Base
-Slice of Red Velvet Cake (Vanilla)
-Slice of Red Velvet Cake (Chocolate)
-Cake Roll (Vanilla/Red Velvet)
-Cake Roll (Chocolate/Red Velvet)
-Vanilla Frosted Red Velvet Cupcake
-Vanilla Frosted Red Velvet Cupcake (Sprinkles)
-Chocolate Frosted Red Velvet Cupcake
-Chocolate Frosted Red Velvet Cupcake (Sprinkles)
-Cake Pop (Vanilla)
-Cake Pop (Chocolate)
-Cake Pop (Strawberry)
-Cake Pop (Mint)
-Cake Pop (Red Velvet)
-Glass of Boba Tea
-Moon Pie
-Whole Apple Pie
-Whole Pumpkin Pie
-Whole Strawberry Pie
-Whole Chocolate Pie
-Whole Cherry Pie
-Whole Blueberry Pie
-Trifle (Vanilla)
-Trifle (Chocolate)
+Vanilla Frosted Vanilla Cake<br/>
+Chocolate Frosted Vanilla Cake<br/>
+Strawberry Frosted Vanilla Cake<br/>
+Chocolate Mousse Cake<br/>
+Vanilla Frosted Chocolate Cake<br/>
+Chocolate Frosted Chocolate Cake<br/>
+Strawberry Frosted Chocolate Cake<br/>
+Mint Frosted Chocolate Cake<br/>
+Coffee Cake<br/>
+Vanilla Frosted Red Velvet Cake<br/>
+Chocolate Frosted Red Velvet Cake<br/>
+Empty Cup<br/>
+Cup of Tea<br/>
+Tea Bag (Empty)<br/>
+Cupcake Tray<br/>
+Cup of Hot Chocolate<br/>
+Knife<br/>
+Mortar<br/>
+Strawberry<br/>
+Strawberry Seeds<br/>
+Blueberry Seeds<br/>
+Cherry Seeds<br/>
+Mint Leaves<br/>
+Mint Seeds<br/>
+Vanilla Flower<br/>
+Tea Seeds<br/>
+Wheat Flour<br/>
+Rice Flour<br/>
+Potato Starch<br/>
+Rice<br/>
+Rice Seeds<br/>
+Dough<br/>
+Gluten Free Dough<br/>
+Vanilla Cake Base<br/>
+Chocolate Cake Base<br/>
+Vanilla Cupcake Base<br/>
+Chocolate Cupcake Base<br/>
+Vanilla Cupcake Dough<br/>
+Chocolate Cupcake Dough<br/>
+Tray of Vanilla Cupcakes<br/>
+Tray of Chocolate Cupcakes<br/>
+Banana<br/>
+Blueberries<br/>
+Cherry<br/>
+Orange<br/>
+Peanut<br/>
+Coffee Beans<br/>
+Coffee Beans (Mocha)<br/>
+Coffee Beans (Espresso)<br/>
+Cup of Coffee<br/>
+Cup of Mocha<br/>
+Cup of Espresso<br/>
+Cup of Cappuccino<br/>
+Cup of Macchiato<br/>
+Cup of Latte<br/>
+Cup of Cold Brew<br/>
+Cup of Americano<br/>
+Green Tea Leaves<br/>
+Matcha Tea Leaves<br/>
+Dried Tea Leaves<br/>
+Yellow Tea Leaves<br/>
+White Tea Leaves<br/>
+Oolong Tea Leaves<br/>
+Tea Bag (Green Tea)<br/>
+Matcha Tea Powder<br/>
+Tea Bag (Black Tea)<br/>
+Tea Bag (Yellow Tea)<br/>
+Tea Bag (White Tea)<br/>
+Tea Bag (Oolong Tea)<br/>
+Cup of Green Tea<br/>
+Cup of Matcha Tea<br/>
+Cup of Black Tea<br/>
+Cup of Yellow Tea<br/>
+Cup of White Tea<br/>
+Cup of Oolong Tea<br/>
+Slice of Cake (Vanilla/Vanilla)<br/>
+Slice of Cake (Chocolate/Vanilla)<br/>
+Slice of Cake (Strawberry/Vanilla)<br/>
+Slice of Cake (Vanilla/Chocolate)<br/>
+Slice of Cake (Chocolate/Chocolate)<br/>
+Slice of Cake (Strawberry/Chocolate)<br/>
+Slice of Cake (Mint/Chocolate)<br/>
+Slice of Cake (Mousse)<br/>
+Vanilla Frosted Vanilla Cupcake<br/>
+Chocolate Frosted Vanilla Cupcake<br/>
+Strawberry Frosted Vanilla Cupcake<br/>
+Vanilla Frosted Chocolate Cupcake<br/>
+Chocolate Frosted Chocolate Cupcake<br/>
+Strawberry Frosted Chocolate Cupcake<br/>
+Mint Frosted Chocolate Cupcake<br/>
+Vanilla Frosted Chocolate Cupcake (Sprinkles)<br/>
+Chocolate Frosted Chocolate Cupcake (Sprinkles)<br/>
+Strawberry Frosted Chocolate Cupcake (Sprinkles)<br/>
+Vanilla Frosted Vanilla Cupcake (Sprinkles)<br/>
+Chocolate Frosted Vanilla Cupcake (Sprinkles)<br/>
+Strawberry Frosted Vanilla Cupcake (Sprinkles)<br/>
+Apple Pie<br/>
+Pumpkin Pie<br/>
+Strawberry Pie<br/>
+Chocolate Pie<br/>
+Cherry Pie<br/>
+Blueberry Pie<br/>
+Vanilla Ice Cream<br/>
+Chocolate Ice Cream<br/>
+Strawberry Ice Cream<br/>
+Mint Ice Cream<br/>
+Neapolitan Ice Cream<br/>
+Vanilla Ice Cream (Sprinkles)<br/>
+Chocolate Ice Cream (Sprinkles)<br/>
+Strawberry Ice Cream (Sprinkles)<br/>
+Mint Ice Cream (Sprinkles)<br/>
+Neapolitan Ice Cream (Sprinkles)<br/>
+Vanilla Ice Cream<br/>
+Chocolate Ice Cream<br/>
+Strawberry Ice Cream<br/>
+Mint Ice Cream<br/>
+Neapolitan Ice Cream<br/>
+Vanilla Chocolate Chip Ice Cream<br/>
+Chocolate Chocolate Chip Ice Cream<br/>
+Strawberry Chocolate Chip Ice Cream<br/>
+Mint Chocolate Chip Ice Cream<br/>
+Neapolitan Chocolate Chip Ice Cream<br/>
+Donut<br/>
+Berlin Creme Donut<br/>
+Boston Creme Donut<br/>
+Jelly Donut<br/>
+Powdered Donut<br/>
+Cinnamon Bun<br/>
+Chocolate Bar<br/>
+White Chocolate Bar<br/>
+Dark Chocolate Bar<br/>
+Chocolate Chips<br/>
+White Chocolate Chips<br/>
+M&Ms<br/>
+Chocolate Cookie Dough<br/>
+Chocolate (M&Ms) Cookie Dough<br/>
+Chocolate Chip Cookie Dough<br/>
+Chocolate Chip (M&Ms) Cookie Dough<br/>
+Sugar Cookie Dough<br/>
+Sugar (M&Ms) Cookie Dough<br/>
+Peanut Butter Cookie Dough<br/>
+Peanut Butter (M&Ms) Cookie Dough<br/>
+M&M Cookie Dough<br/>
+Creme Cookie Dough<br/>
+Mint Creme Cookie Dough<br/>
+Chocolate Cookie<br/>
+Chocolate Cookie (M&Ms)<br/>
+Chocolate Chip Cookie<br/>
+Chocolate Chip Cookie (M&Ms)<br/>
+Sugar Cookie<br/>
+Sugar Cookie (M&Ms)<br/>
+Peanut Butter Cookie<br/>
+Peanut Butter Cookie (M&Ms)<br/>
+Creme Cookie<br/>
+M&M Cookie<br/>
+Jaffa Cake<br/>
+Mint Creme Cookie<br/>
+Gluten Free Donut<br/>
+Glazed Gluten Free Donut<br/>
+Gluten Free Donut (Sprinkles)<br/>
+Gluten Free Donut<br/>
+Gluten Free Donut<br/>
+Gluten Free Donut<br/>
+Chocolate Frosted Gluten Free Donut<br/>
+Chocolate Frosted Gluten Free Donut (Sprinkles)<br/>
+Chocolate Frosted Gluten Free Donut<br/>
+Chocolate Frosted Gluten Free Donut<br/>
+Strawberry Frosted Gluten Free Donut<br/>
+Strawberry Frosted Gluten Free Donut (Sprinkles)<br/>
+Strawberry Frosted Gluten Free Donut<br/>
+Strawberry Frosted Gluten Free Donut<br/>
+Vanilla Frosted Gluten Free Donut<br/>
+Vanilla Frosted Gluten Free Donut (Sprinkles)<br/>
+Vanilla Frosted Gluten Free Donut<br/>
+Vanilla Frosted Gluten Free Donut<br/>
+Glazed Donut<br/>
+Glazed Donut (Sprinkles)<br/>
+Glazed Donut<br/>
+Glazed Donut<br/>
+Glazed Donut<br/>
+Chocolate Glazed Donut<br/>
+Chocolate Glazed Donut (Sprinkles)<br/>
+Chocolate Glazed Donut<br/>
+Chocolate Glazed Donut<br/>
+Chocolate Frosted Donut<br/>
+Chocolate Frosted Donut (Sprinkles)<br/>
+Chocolate Frosted Donut<br/>
+Chocolate Frosted Donut<br/>
+Strawberry Frosted Donut<br/>
+Strawberry Frosted Donut (Sprinkles)<br/>
+Strawberry Frosted Donut<br/>
+Strawberry Frosted Donut<br/>
+Vanilla Frosted Donut<br/>
+Vanilla Frosted Donut (Sprinkles)<br/>
+Vanilla Frosted Donut<br/>
+Vanilla Frosted Donut<br/>
+Vanilla Milkshake<br/>
+Chocolate Milkshake<br/>
+Strawberry Milkshake<br/>
+Mint Milkshake<br/>
+Mint Chocolate Chip Milkshake<br/>
+Neapolitan Milkshake<br/>
+Poptart Base<br/>
+Poptart Base (Chocolate)<br/>
+Strawberry Poptart<br/>
+Brown Sugar Poptart<br/>
+Chocolate Chip Poptart<br/>
+Minecraft Poptart<br/>
+Cookies & Creme Poptart<br/>
+Chocolate Fudge Poptart<br/>
+S'mores Poptart<br/>
+Cinnamon Roll Poptart<br/>
+Chocolate Cupcake Poptart<br/>
+Confetti Cupcake Poptart<br/>
+Chocolate Chip Cookie Dough Poptart<br/>
+Hot Fudge Sundae Poptart<br/>
+Cherry Poptart<br/>
+Blueberry Poptart<br/>
+Waffle<br/>
+Ice Cream Cone<br/>
+Vanilla Ice Cream Cone<br/>
+Chocolate Ice Cream Cone<br/>
+Strawberry Ice Cream Cone<br/>
+Neapolitan Ice Cream Cone<br/>
+Mint Ice Cream Cone<br/>
+Mint Chocolate Chip Ice Cream Cone<br/>
+Vanilla Ice Cream Cone (Sprinkles)<br/>
+Chocolate Ice Cream Cone (Sprinkles)<br/>
+Strawberry Ice Cream Cone (Sprinkles)<br/>
+Neapolitan Ice Cream Cone (Sprinkles)<br/>
+Mint Ice Cream Cone (Sprinkles)<br/>
+Vanilla Ice Cream Cone<br/>
+Chocolate Ice Cream Cone<br/>
+Strawberry Ice Cream Cone<br/>
+Neapolitan Ice Cream Cone<br/>
+Mint Ice Cream Cone<br/>
+Ice Cream Sandwich (Vanilla)<br/>
+Ice Cream Sandwich (Chocolate)<br/>
+Ice Cream Sandwich (Strawberry)<br/>
+Ice Cream Sandwich (Mint)<br/>
+Ice Cream Sandwich (Neapolitan)<br/>
+Banana Split Ice Cream Sundae<br/>
+Banana Split Ice Cream Sundae (Sprinkles)<br/>
+Banana Split Ice Cream Sundae<br/>
+Hot Fudge Sundae<br/>
+Spigot<br/>
+Bottle of Syrup<br/>
+Pancake Batter<br/>
+Pancake Batter (Blueberry)<br/>
+Pancake Batter (Chocolate Chip)<br/>
+Waffle Batter<br/>
+Waffle Batter (Blueberry)<br/>
+Waffle Batter (Chocolate Chip)<br/>
+French Toast Batter<br/>
+Pancake<br/>
+Pancake (Syrup)<br/>
+Chocolate Chip Pancake<br/>
+Chocolate Chip Pancake (Syrup)<br/>
+Blueberry Pancake<br/>
+Blueberry Pancake (Syrup)<br/>
+Waffle (Syrup)<br/>
+Chocolate Chip Waffle<br/>
+Chocolate Chip Waffle (Syrup)<br/>
+Blueberry Waffle<br/>
+Blueberry Waffle (Syrup)<br/>
+French Toast<br/>
+French Toast (Syrup)<br/>
+Chocolate Popsicle<br/>
+Orange Popsicle<br/>
+Cherry Popsicle<br/>
+Blueberry Popsicle<br/>
+Strawberry Popsicle<br/>
+Banana Popsicle<br/>
+Firecracker Popsicle<br/>
+Chocolate Syrup<br/>
+Peppermint<br/>
+Caramel<br/>
+Peanut Butter<br/>
+Candy Bar Cookie Dough<br/>
+Candy Bar Cookie<br/>
+Croissant Shaped Dough<br/>
+Croissant<br/>
+Crêpe<br/>
+Crêpe<br/>
+Crêpe<br/>
+Crêpe<br/>
+Chocolate Crêpe<br/>
+Chocolate Crêpe<br/>
+Chocolate Crêpe<br/>
+Chocolate Crêpe<br/>
+Pancake Batter (Chocolate)<br/>
+Chocolate Pancake<br/>
+Chocolate Pancake (Chocolate Syrup)<br/>
+Twix<br/>
+Milky Way<br/>
+Crunch Bar<br/>
+Peanut Butter Cup<br/>
+Payday<br/>
+Snickers<br/>
+Kit Kat<br/>
+Lollipop (Cherry)<br/>
+Lollipop (Orange)<br/>
+Lollipop (Banana)<br/>
+Lollipop (Blueberry)<br/>
+Lollipop (Strawberry)<br/>
+Lollipop (Melon)<br/>
+Lollipop (Peppermint)<br/>
+Lollipop (Green Apple)<br/>
+Cake Roll (Vanilla/Vanilla)<br/>
+Cake Roll (Chocolate/Vanilla)<br/>
+Cake Roll (Strawberry/Vanilla)<br/>
+Cake Roll (Vanilla/Chocolate)<br/>
+Cake Roll (Chocolate/Chocolate)<br/>
+Cake Roll (Strawberry/Chocolate)<br/>
+Cake Roll (Mint/Chocolate)<br/>
+Butter Churn<br/>
+Peanut Brittle<br/>
+Gelatin<br/>
+Marshmallow<br/>
+Jello (Cherry)<br/>
+Jello (Orange)<br/>
+Jello (Strawberry)<br/>
+Jello (Blueberry)<br/>
+Jello (Melon)<br/>
+Bucket of Boiling Water<br/>
+Boiled Sugar<br/>
+Strawberry Syrup<br/>
+Butter<br/>
+Cheese<br/>
+Glass of Milk<br/>
+Glass of Chocolate Milk<br/>
+Glass of Strawberry Milk<br/>
+Waffle Batter (Chocolate)<br/>
+Chocolate Waffle<br/>
+Chocolate Waffle (Chocolate Syrup)<br/>
+Ice Cream Cone (Chocolate)<br/>
+Rolo<br/>
+Caramel Apple<br/>
+Strawberry Shortcake<br/>
+Chocolate Strawberry Shortcake<br/>
+Vanilla Cheese Cake<br/>
+Chocolate Cheese Cake<br/>
+Slice of Cheese Cake (Vanilla)<br/>
+Slice of Cheese Cake (Chocolate)<br/>
+Slice of Coffee Cake<br/>
+Ginger Seeds<br/>
+Ginger<br/>
+Ginger Snaps<br/>
+Gingerbread Man<br/>
+Ginger Snaps Cookie Dough<br/>
+Gingerbread Man Cookie Dough<br/>
+Peppermint Patty<br/>
+Taffy<br/>
+Cotton Candy<br/>
+Cotton Candy<br/>
+Cannoli<br/>
+Cup of Kona Coffee<br/>
+Coffee Beans (Kona)<br/>
+Vanilla French Horn<br/>
+Chocolate French Horn<br/>
+Vanilla French Horn (Strawberry)<br/>
+Chocolate French Horn (Strawberry)<br/>
+Vanilla Ice Cream<br/>
+Chocolate Ice Cream<br/>
+Strawberry Ice Cream<br/>
+Mint Ice Cream<br/>
+Neapolitan Ice Cream<br/>
+Vanilla Ice Cream<br/>
+Chocolate Ice Cream<br/>
+Mint Ice Cream<br/>
+Neapolitan Ice Cream<br/>
+Vanilla Ice Cream<br/>
+Chocolate Ice Cream<br/>
+Mint Ice Cream<br/>
+Neapolitan Ice Cream<br/>
+Vanilla Ice Cream Cone<br/>
+Chocolate Ice Cream Cone<br/>
+Strawberry Ice Cream Cone<br/>
+Mint Ice Cream Cone<br/>
+Neapolitan Ice Cream Cone<br/>
+Vanilla Ice Cream Cone<br/>
+Chocolate Ice Cream Cone<br/>
+Mint Ice Cream Cone<br/>
+Neapolitan Ice Cream Cone<br/>
+Vanilla Ice Cream Cone<br/>
+Chocolate Ice Cream Cone<br/>
+Mint Ice Cream Cone<br/>
+Neapolitan Ice Cream Cone<br/>
+Vanilla Ice Cream Cone (Chocolate Cone)<br/>
+Chocolate Ice Cream Cone (Chocolate Cone)<br/>
+Strawberry Ice Cream Cone (Chocolate Cone)<br/>
+Mint Ice Cream Cone (Chocolate Cone)<br/>
+Neapolitan Ice Cream Cone (Chocolate Cone)<br/>
+Vanilla Ice Cream Cone (Chocolate Cone)<br/>
+Chocolate Ice Cream Cone (Chocolate Cone)<br/>
+Strawberry Ice Cream Cone (Chocolate Cone)<br/>
+Mint Ice Cream Cone (Chocolate Cone)<br/>
+Neapolitan Ice Cream Cone (Chocolate Cone)<br/>
+Vanilla Ice Cream Cone (Chocolate Cone)<br/>
+Chocolate Ice Cream Cone (Chocolate Cone)<br/>
+Strawberry Ice Cream Cone (Chocolate Cone)<br/>
+Mint Ice Cream Cone (Chocolate Cone)<br/>
+Neapolitan Ice Cream Cone (Chocolate Cone)<br/>
+Vanilla Ice Cream Cone (Chocolate Cone)<br/>
+Chocolate Ice Cream Cone (Chocolate Cone)<br/>
+Strawberry Ice Cream Cone (Chocolate Cone)<br/>
+Mint Ice Cream Cone (Chocolate Cone)<br/>
+Neapolitan Ice Cream Cone (Chocolate Cone)<br/>
+Mint Chocolate Chip Ice Cream (Chocolate Cone)<br/>
+Vanilla Ice Cream Cone (Chocolate Cone)<br/>
+Chocolate Ice Cream Cone (Chocolate Cone)<br/>
+Mint Ice Cream Cone (Chocolate Cone)<br/>
+Neapolitan Ice Cream Cone (Chocolate Cone)<br/>
+Vanilla Ice Cream Cone (Chocolate Cone)<br/>
+Chocolate Ice Cream Cone (Chocolate Cone)<br/>
+Mint Ice Cream Cone (Chocolate Cone)<br/>
+Neapolitan Ice Cream Cone (Chocolate Cone)<br/>
+Jellybean (Vanilla)<br/>
+Jellybean (Chocolate)<br/>
+Jellybean (Strawberry)<br/>
+Jellybean (Green Apple)<br/>
+Jellybean (Blueberry)<br/>
+Jellybean (Orange)<br/>
+Jellybean (Banana)<br/>
+Jellybean (Cherry)<br/>
+Candy Cane<br/>
+Candy Cane (Chocolate)<br/>
+Candy Cane (Strawberry)<br/>
+Candy Cane (Green Apple)<br/>
+Candy Cane (Blueberry)<br/>
+Candy Cane (Orange)<br/>
+Candy Cane (Banana)<br/>
+Candy Cane (Cherry)<br/>
+Macaron (Vanilla)<br/>
+Macaron (Chocolate)<br/>
+Macaron (Strawberry)<br/>
+Macaron (Mint)<br/>
+Macaron (Blueberry)<br/>
+Macaron (Orange)<br/>
+Macaron (Banana)<br/>
+Macaron (Cherry)<br/>
+Fudge Striped Cookie<br/>
+Vanilla Muffin<br/>
+Vanilla Muffin (Blueberry)<br/>
+Vanilla Muffin (Chocolate Chip)<br/>
+Vanilla Muffin (Strawberry)<br/>
+Vanilla Muffin (Poppy Seed)<br/>
+Banana Bread Muffin (Vanilla)<br/>
+Banana Bread Muffin (Chocolate)<br/>
+Vanilla Muffin Dough<br/>
+Vanilla Muffin Dough (Blueberry)<br/>
+Vanilla Muffin Dough (Chocolate Chip)<br/>
+Vanilla Muffin Dough (Strawberry)<br/>
+Vanilla Muffin Dough (Poppy Seed)<br/>
+Banana Bread Muffin Dough (Vanilla)<br/>
+Banana Bread Muffin Dough (Chocolate)<br/>
+Tray of Vanilla Muffins<br/>
+Tray of Vanilla Muffins (Blueberry)<br/>
+Tray of Vanilla Muffins (Chocolate Chip)<br/>
+Tray of Vanilla Muffins (Strawberry)<br/>
+Tray of Vanilla Muffins (Poppy Seed)<br/>
+Tray of Banana Bread Muffins (Vanilla)<br/>
+Tray of Banana Bread Muffins (Chocolate)<br/>
+Jolly Rancher (Strawberry)<br/>
+Jolly Rancher (Green Apple)<br/>
+Jolly Rancher (Blueberry)<br/>
+Jolly Rancher (Orange)<br/>
+Jolly Rancher (Banana)<br/>
+Jolly Rancher (Cherry)<br/>
+Taffy (Strawberry)<br/>
+Taffy (Green Apple)<br/>
+Taffy (Blueberry)<br/>
+Taffy (Orange)<br/>
+Taffy (Banana)<br/>
+Taffy (Cherry)<br/>
+Pretzel Dough<br/>
+Gluten Free Pretzel Dough<br/>
+Pretzel<br/>
+Gluten Free Pretzel<br/>
+Chocolate Frosted Pretzel<br/>
+White Chocolate Frosted Pretzel<br/>
+Strawberry Frosted Pretzel<br/>
+Mint Frosted Pretzel<br/>
+Chocolate Frosted Gluten Free Pretzel<br/>
+White Chocolate Frosted Gluten Free Pretzel<br/>
+Strawberry Frosted Gluten Free Pretzel<br/>
+Mint Frosted Gluten Free Pretzel<br/>
+Chocolate Frosted Pretzel (Sprinkles)<br/>
+White Chocolate Frosted Pretzel (Sprinkles)<br/>
+Strawberry Frosted Pretzel (Sprinkles)<br/>
+Mint Frosted Pretzel (Sprinkles)<br/>
+Chocolate Frosted Gluten Free Pretzel (Sprinkles)<br/>
+White Chocolate Frosted Gluten Free Pretzel (Sprinkles)<br/>
+Strawberry Frosted Gluten Free Pretzel (Sprinkles)<br/>
+Mint Frosted Gluten Free Pretzel (Sprinkles)<br/>
+Brownie Batter (Chocolate)<br/>
+Brownie Batter (Peanut Butter)<br/>
+Brownie Batter (Caramel)<br/>
+Brownie Batter (Mint)<br/>
+Brownie (Chocolate)<br/>
+Brownie (Peanut Butter)<br/>
+Brownie (Caramel)<br/>
+Brownie (Mint)<br/>
+Coffee Cake Batter<br/>
+Milano (Chocolate)<br/>
+Milano (Strawberry)<br/>
+Milano (Mint)<br/>
+Jammie Dodger (Strawberry)<br/>
+Jammie Dodger (Chocolate)<br/>
+Jammie Dodger (Orange)<br/>
+Vanilla Waffer<br/>
+Chocolate Waffer<br/>
+Strawberry Waffer<br/>
+Half-Moon Cookie<br/>
+Red Velvet Cupcake Dough<br/>
+Tray of Red Velvet Cupcakes<br/>
+Red Velvet Cupcake Base<br/>
+Red Velvet Cake Base<br/>
+Slice of Red Velvet Cake (Vanilla)<br/>
+Slice of Red Velvet Cake (Chocolate)<br/>
+Cake Roll (Vanilla/Red Velvet)<br/>
+Cake Roll (Chocolate/Red Velvet)<br/>
+Vanilla Frosted Red Velvet Cupcake<br/>
+Vanilla Frosted Red Velvet Cupcake (Sprinkles)<br/>
+Chocolate Frosted Red Velvet Cupcake<br/>
+Chocolate Frosted Red Velvet Cupcake (Sprinkles)<br/>
+Cake Pop (Vanilla)<br/>
+Cake Pop (Chocolate)<br/>
+Cake Pop (Strawberry)<br/>
+Cake Pop (Mint)<br/>
+Cake Pop (Red Velvet)<br/>
+Glass of Boba Tea<br/>
+Moon Pie<br/>
+Whole Apple Pie<br/>
+Whole Pumpkin Pie<br/>
+Whole Strawberry Pie<br/>
+Whole Chocolate Pie<br/>
+Whole Cherry Pie<br/>
+Whole Blueberry Pie<br/>
+Trifle (Vanilla)<br/>
+Trifle (Chocolate)<br/>
