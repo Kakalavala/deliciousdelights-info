@@ -16,7 +16,8 @@ Here are answers to some questions.
 
 Getting Started
 =================
-What to craft to get started. Every item has a recipe, you can either use the vanilla recipe book or a recipe viewing mod.
+What to craft to get started. Every item has a recipe, you can either use the vanilla recipe book or a recipe viewing mod.<br />
+[[Flour]](#flour) [[Dough]](#dough) [[Spigot]](#spigot) [[Coffee Beans]](#coffee-beans) [[Tea / Seeds]](#tea-and-seeds)
 
 Flour
 ------
@@ -48,7 +49,7 @@ Coffee beans have a 1/8 chance of dropping when breaking cocoa beans. Once you h
 * Mocha Beans (Makes Mocha)
 * Espresso Beans (Makes Macchiato, Latte, Espresso, Cappuccino, and Americano)
 
-Tea / Seeds
+Tea and Seeds
 ---
 All seeds can be found when breaking tall grass (much like normal wheat seeds), this includes:
 * Mint Seeds
