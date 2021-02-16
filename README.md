@@ -5,6 +5,20 @@ This repository is to serve as a place to get information about the mod, from FA
 **Delicious Delights v1.6 - "The User-Suggested Update"**
 <br />
 <img src="https://img.shields.io/badge/Progress-In%20Development-yellow"> <img src="https://img.shields.io/badge/Release Date-Soon-yellow">
+<!-- PROGRESS KEYS:
+Not Started (Red)
+In Planning (Orange)
+In Development (Yellow)
+Completed (Green)
+-->
+<!-- RELEASE KEYS:
+Unknown (Red)
+Soon (Yellow)
+Released (Green)
+-->
+<!-- POSSIBLE COLOURS
+brightgreen, greenyellow, green, yellow, orange, red, blue, lightgrey
+-->
 
 FAQ
 =================
