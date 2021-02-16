@@ -1,5 +1,5 @@
 # A complete list of items added by Delicious Delights.
->**541 Items**
+>**611 Items**
 
 Vanilla Frosted Vanilla Cake<br/>
 Chocolate Frosted Vanilla Cake<br/>
@@ -542,3 +542,63 @@ Whole Cherry Pie<br/>
 Whole Blueberry Pie<br/>
 Trifle (Vanilla)<br/>
 Trifle (Chocolate)<br/>
+Vanilla Frosted Éclair<br>
+Chocolate Frosted Éclair<br>
+Strawberry Frosted Éclair<br>
+Chocolate Dipped Creme Cookie<br>
+Sponge Cake<br>
+Slice of Sponge Cake<br>
+Toffee (Vanilla)<br>
+Toffee (Chocolate)<br>
+Pecan<br>
+Pecan Pie<br>
+Whole Pecan Pie<br>
+Cream<br>
+Banana Cream Pie<br>
+Whole Banana Cream Pie<br>
+Blackberries<br>
+Blackberry Seeds<br>
+Blackberry Poptart<br>
+Blackberry Pie<br>
+Whole Blackberry Pie<br>
+Vanilla Muffin (Blackberry)<br>
+Vanilla Muffin Dough (Blackberry)<br>
+Tray of Vanilla Muffins (Blackberry)<br>
+Chocolate Dipped Strawberry<br>
+Coconut<br>
+Coconut Milk<br>
+Grater<br>
+Coconut Shavings<br>
+Coconut Cream Pie<br>
+Whole Coconut Cream Pie<br>
+Pancake (Syrup w/ Butter)<br>
+Chocolate Pancake (Syrup w/ Butter)<br>
+Chocolate Chip Pancake (Syrup w/ Butter)<br>
+Blueberry Pancake (Syrup w/ Butter)<br>
+Thin Mint Cookie<br>
+Samoas Cookie<br>
+Gummy Bear Base<br>
+Gummy Bear (Cherry)<br>
+Gummy Bear (Orange)<br>
+Gummy Bear (Green Apple)<br>
+Gummy Bear (Strawberry)<br>
+Gummy Bear (Blueberry)<br>
+Gummy Bear (Melon)<br>
+Candy Corn<br>
+Hershey's Kiss<br>
+Mars Bar<br>
+Black Licorice<br>
+Red Licorice<br>
+Heart Cookie Dough<br>
+Heart Cookie<br>
+Heart Cookie (Vanilla)<br>
+Heart Cookie (Chocolate)<br>
+Heart Cookie (Strawberry)<br>
+Heart Cookie (Red Sugar)<br>
+Vanilla Nougat<br>
+Chocolate Nougat<br>
+Vanilla Nougat (Nuts)<br>
+Chocolate Nougat (Nuts)<br>
+Three Musketeers<br>
+Anise Seeds<br>
+Anise<br>
