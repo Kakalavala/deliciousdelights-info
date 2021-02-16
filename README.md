@@ -35,7 +35,7 @@ Here are answers to some questions.
 
 >**Q**: _Will you add \<something\>?_<br/>**A**: If the item is a suitable fit for the mod, then it's likely.
 
->**Q**: _What items are there?_<br/>**A**: Over **500** of them, for a complete list see: [here](https://github.com/Kakalavala/deliciousdelights-info/blob/main/item-list.md).
+>**Q**: _What items are there?_<br/>**A**: Over **600** of them, for a complete list see: [here](https://github.com/Kakalavala/deliciousdelights-info/blob/main/item-list.md).
 
 >**Q**: _When is Russian support coming back?_<br/>**A**: When someone translates it and sends the translation to me.
 
