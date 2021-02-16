@@ -18,7 +18,7 @@ Here are answers to some questions.
 
 >**Q**: _What items are there?_<br/>**A**: Over **500** of them, for a complete list see: [here](https://github.com/Kakalavala/deliciousdelights-info/blob/main/item-list.md).
 
->**Q**: _When is Russian support coming back?_<br/>**A**: When someone translate it and sends the translation to me.
+>**Q**: _When is Russian support coming back?_<br/>**A**: When someone translates it and sends the translation to me.
 
 Getting Started
 =================
