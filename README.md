@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/PBHg3gE.png">
 </p>
 
-Delicious Delights is a 1.12.2 Forge mod that addeds over 500 items to the game, and is a "must have" addition for baking.
+Delicious Delights is a 1.12.2 Forge mod that addeds over **600** items to the game, and is a "must have" addition for baking.
 This repository is to serve as a place to get information about the mod, from FAQs to statuses about the mod.
 
 **Delicious Delights v1.6 - "The User-Suggested Update"**
@@ -81,7 +81,9 @@ All seeds can be found when breaking tall grass (much like normal wheat seeds), 
 * Rice Seeds
 * Strawberry Seeds
 * Tea Seeds
+* Anise Seeds
 * Peanuts
+* Pecans
 
 Tea Seeds (when grown) will yield a random tea leaf:
 * Green Tea
