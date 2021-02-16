@@ -3,6 +3,3 @@
 
 ### [v1.5.1]
 > \+ Added Red Velvet Cake, Cake Slices, Cake Rolls, Cupcakes, and Cake Pops (Thanks, allypoo2001!)<br>\+ Added 5 Cake Pops (Thanks, allypoo2001!)<br>\+ Added Boba Tea<br>\+ Added Moon Pies<br>
-
-### [v1.5.2]
-> \+ Added Whole versions of Pies (Thanks, allypoo2001!)<br>\* Made new recipe to convert cake slices back to whole cakes
