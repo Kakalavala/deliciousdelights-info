@@ -9,7 +9,7 @@ This repository is to serve as a place to get information about the mod, from FA
 
 **Delicious Delights v1.6 - "The User-Suggested Update"**
 <br />
-<img src="https://img.shields.io/badge/Progress-In%20Development-yellow"> <img src="https://img.shields.io/badge/Release Date-Soon-yellow">
+<img src="https://img.shields.io/badge/Progress-In%20Completed-brightgreen"> <img src="https://img.shields.io/badge/Release Date-Released-brightgreen">
 <!-- PROGRESS KEYS:
 Not Started (Red)
 In Planning (Orange)
