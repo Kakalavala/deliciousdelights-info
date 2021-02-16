@@ -1,0 +1,2 @@
+### [THE CANDY UPDATE - v1.3]
+> \+ Added 7 Cake Rolls<br>\+ Added 8 Candies<br>\+ Added 8 Crêpes<br>\+ Added 8 Lollipops<br>\+ Added 2 Pancakes<br>\+ Added Caramel, Chocolate Syrup, Croissants, Peanut Butter<br>\* Added complete support for Pam's HarvestCraft (1.12.2zg)<br>\* Changed fruit drop rates from 1/10 -> 1/180 (same as an Apple) (Thanks, lithium_sulfate!)<br>\* Re-balanced Orange and Banana hunger and saturation amounts to be less OP (Thanks, lithium_sulfate!)<br>\* Changed certain recipes to require Chocolate Syrup instead of Chocolate Bars<br>
