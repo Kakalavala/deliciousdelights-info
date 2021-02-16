@@ -4,7 +4,7 @@ This repository is to serve as a place to get information about the mod, from FA
 
 **Delicious Delights v1.6 - "The User-Suggested Update"**
 <br />
-<img src="https://img.shields.io/badge/Progress-In%20Development-yellow">
+<img src="https://img.shields.io/badge/Progress-In%20Development-yellow"> <img src="https://img.shields.io/badge/Development Stage-Late-brightgreen">
 
 FAQ
 =================
