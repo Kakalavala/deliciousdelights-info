@@ -2,7 +2,7 @@
 Delicious Delights is a 1.12.2 Forge mod that addeds over 500 items to the game, and is a "must have" addition for baking.
 This repository is to serve as a place to get information about the mod, from FAQs to statuses about the mod.
 
-**Delicious Delights v1.6 - "The User-Suggested Update"**
+**[THE USER-SUGGESTED UPDATE - v1.6]**
 <br />
 <img src="https://img.shields.io/badge/Progress-In%20Development-yellow"> <img src="https://img.shields.io/badge/Development Stage-Late-brightgreen">
 
