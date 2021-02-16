@@ -24,7 +24,7 @@ FAQ
 =================
 Here are answers to some questions.
 
->**Q**: _Support for anything below 1.12.2?_<br />**A**: No. Sorry but there are no plans to downgrade the mod.
+>**Q**: _Support for anything below 1.12.2?_<br />**A**: No. Sorry, but there are no plans to downgrade the mod.
 
 >**Q**: _Support for 1.16.5?_<br />**A**: An update to 1.16.5 will happen, we just don't know when.
 
