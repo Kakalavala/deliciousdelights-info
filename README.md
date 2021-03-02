@@ -75,7 +75,7 @@ Coffee beans have a 1/8 chance of dropping when breaking cocoa beans. Once you h
 * Mocha Beans (Makes Mocha)
 * Espresso Beans (Makes Macchiato, Latte, Espresso, Cappuccino, and Americano)
 
-Tea and Seeds
+Tea and Seeds / Nuts
 ---
 All seeds can be found when breaking tall grass (much like normal wheat seeds), this includes:
 * Mint Seeds
@@ -96,3 +96,11 @@ Tea Seeds (when grown) will yield a random tea leaf:
 Any tea can be smelted to make Dried Tea, which is used for making Black Tea.
 
 To make you tea, you must make a tea bag first, then combine the tea leaf and tea bag in the crafting table. (Except Matcha - Matcha requires just an Empty Cup and Water.) Combine the tea bag with an empty cup and some water, and presto - you got tea.
+
+Fruits
+---
+Fruits can be found the same way you'd find vanilla apples, by breaking leaves.
+
+Vanilla
+---
+Vanilla can be found by breaking vines.
