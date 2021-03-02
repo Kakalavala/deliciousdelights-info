@@ -43,7 +43,7 @@ Here are answers to some questions.
 Getting Started
 =================
 Every item has a recipe, you can either use the vanilla recipe book or a recipe viewing mod.<br />
-[[Flour]](#flour) [[Dough]](#dough) [[Spigot]](#spigot) [[Coffee Beans]](#coffee-beans) [[Tea / Seeds]](#tea-and-seeds) [[Fruits]](#fruits) [[Vanilla]](#vanilla)
+[[Flour]](#flour) [[Dough]](#dough) [[Spigot]](#spigot) [[Coffee Beans]](#coffee-beans) [[Tea / Seeds / Nuts]](#tea-and-seeds-and-nuts) [[Fruits]](#fruits) [[Vanilla]](#vanilla)
 
 Flour
 ------
@@ -75,7 +75,7 @@ Coffee beans have a 1/8 chance of dropping when breaking cocoa beans. Once you h
 * Mocha Beans (Makes Mocha)
 * Espresso Beans (Makes Macchiato, Latte, Espresso, Cappuccino, and Americano)
 
-Tea and Seeds / Nuts
+Tea and Seeds and Nuts
 ---
 All seeds can be found when breaking tall grass (much like normal wheat seeds), this includes:
 * Mint Seeds
