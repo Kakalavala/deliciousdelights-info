@@ -43,7 +43,7 @@ Here are answers to some questions.
 Getting Started
 =================
 Every item has a recipe, you can either use the vanilla recipe book or a recipe viewing mod.<br />
-[[Flour]](#flour) [[Dough]](#dough) [[Spigot]](#spigot) [[Coffee Beans]](#coffee-beans) [[Tea / Seeds]](#tea-and-seeds)
+[[Flour]](#flour) [[Dough]](#dough) [[Spigot]](#spigot) [[Coffee Beans]](#coffee-beans) [[Tea / Seeds]](#tea-and-seeds) [[Fruits]](#fruits) [[Vanilla]](#vanilla)
 
 Flour
 ------
